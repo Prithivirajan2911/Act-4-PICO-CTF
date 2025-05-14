@@ -6,9 +6,11 @@
 ### Challenge Name: Flag Hunters
 ### Difficulty: Easy
 ### Categories: Reverse Engineering, picoCTF 2025, browser_webshell_solvable
-### Description: The challenge involves analyzing lyrics where a hidden refrain is mentioned, which doesn't print by default. The goal is to figure out how to get this hidden refrain, as it might contain the flag. 
+### Description: 
+ * The challenge involves analyzing lyrics where a hidden refrain is mentioned, which doesn't print by default. The goal is to figure out how to get this hidden refrain, as it might contain the flag. 
  * The source code is available for download, and there's a hint to connect via netcat to verbal-sleep.picoctf.net on port 50812.
 
+![Screenshot 2025-05-14 105800](https://github.com/user-attachments/assets/142d103c-068f-4815-ad0c-403aacaa7ca3)
 
 ![Screenshot 2025-05-14 105649](https://github.com/user-attachments/assets/211e2285-c9e0-40c4-b74e-7eadf69ff089)
 
